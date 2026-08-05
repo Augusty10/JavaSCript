@@ -14,6 +14,8 @@ let Fiction ={
     isbn: "24511FT"
 }
 
+
+
 let Novel = Fiction
 Novel.title="the Monk who Sold my ferrari  "
 
