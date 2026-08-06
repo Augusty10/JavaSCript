@@ -13,9 +13,6 @@ let Fiction ={
     author: "Paulo Coelho",
     isbn: "24511FT"
 }
-
-
-
 let Novel = Fiction
 Novel.title="the Monk who Sold my ferrari  "
 
