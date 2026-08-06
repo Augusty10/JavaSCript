@@ -11,3 +11,6 @@ function outer() {
   inner();
 }
 outer();
+
+
+//JS resolves variables lexically via the scope chain fixed at function creation time, but resolves this dynamically based on the call site — except arrow functions, which lexically inherit this too." That sentence alone answers 80% of what interviewers are probing for.
