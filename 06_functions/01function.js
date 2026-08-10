@@ -33,3 +33,8 @@ console.log(returnArray([200, 400,500 ,6000]));
 
 
             
+
+function love (Yes, No ){
+
+    return   yes,  no 
+}
