@@ -8,5 +8,7 @@ let isNumber = Number (Score)
 console.log(typeof isNumber)
 
 // Opertaions 
- // Arithmatic Operator 
- // 
+// Arithmatic Operator 
+//  
+// 
+

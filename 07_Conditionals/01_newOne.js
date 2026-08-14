@@ -7,3 +7,13 @@ if (a > 0){
   }else {
     console.log("Zero");
   }
+
+
+  
+  let age = 10
+  
+  if(age> 18){
+    console.log(" User is eligable to Give Vote : ");
+  }else{
+    console.log("user is not eligble");
+  }

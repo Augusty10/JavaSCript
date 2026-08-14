@@ -5,12 +5,12 @@ console.log(name + "has"+ repoCount +" repositories")    // old Method of concat
 
 console.log(` hello my name ${name} and my repo count is  ${repoCount}`);   // String interpolation 
 
-
 const GameName = new String("Call of Duty") ;
 
 console.log(GameName.valueOf()[0]) ; // get the first character of the string
 console.log(GameName.__proto__) ; // prototype of the String object
 console.log(GameName.toUpperCase()) ; // convert the string to upper case
+
 
 
 
