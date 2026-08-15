@@ -8,7 +8,6 @@ if (a > 0){
     console.log("Zero");
   }
 
-
   
   let age = 10
   
