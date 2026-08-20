@@ -14,7 +14,6 @@ const myNums = [1,2,3]
 // console.log(myTotal);
 
 
-
 const shoppingCart =[
     {itemName:"js Course ",
       Price : 5999   
@@ -25,5 +24,7 @@ const shoppingCart =[
     },
 
 ]
+
+
 
  const priceTopay = tshoppingCart.reduce((item) => acc + item.Price, 0)
